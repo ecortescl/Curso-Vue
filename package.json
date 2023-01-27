@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "vue-axios": "^3.5.2"
+    "vue-axios": "^3.5.2",
+    "vue-owl-carousel": "^2.0.3"
   }
 }
